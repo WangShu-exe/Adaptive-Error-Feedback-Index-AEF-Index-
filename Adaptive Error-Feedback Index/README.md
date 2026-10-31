@@ -52,7 +52,7 @@
 ## 🖼️ 可视化结果 (Visualizations)
 
 <div align="center">
-  <img src="assets/aef_incremental_update_final.png" alt="AEF-Index Error CDF and Incremental Update" width="95%">
+  <img src="assets/aef_incremental_update_n_global=2000.png" alt="AEF-Index Error CDF and Incremental Update" width="95%">
   <p><i>左图：CDF 曲线（AEF-Index 死死贴底，碾压纯 ECDF）。右图：增量更新动态误差曲线（10,000次插入后误差仅微弱上升，展现极强流式鲁棒性）。</i></p>
 </div>
 
