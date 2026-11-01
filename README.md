@@ -5,6 +5,8 @@
 
 > **专为长尾、极端脏数据设计的轻量级、支持流式增删的自适应概率排名索引。**
 
+[![XERJ Corpus Hub contributor](https://hub.xerj.org/contributors/WangShu-exe/badge.svg)](https://hub.xerj.org/contributors/WangShu-exe)
+
 ## 💡 项目背景 (Motivation)
 传统的排名估计（如 ECDF、t-digest）在海量数据面临三大死穴：
 1. **内存爆炸**：全量排序或存储直方图开销极大。
