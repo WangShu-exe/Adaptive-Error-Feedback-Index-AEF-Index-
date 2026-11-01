@@ -2,10 +2,9 @@
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Status](https://img.shields.io/badge/Status-Streaming_Update_Ready-success.svg)]()
+[![XERJ Corpus Hub contributor](https://hub.xerj.org/contributors/WangShu-exe/badge.svg)](https://hub.xerj.org/contributors/WangShu-exe)
 
 > **专为长尾、极端脏数据设计的轻量级、支持流式增删的自适应概率排名索引。**
-
-[![XERJ Corpus Hub contributor](https://hub.xerj.org/contributors/WangShu-exe/badge.svg)](https://hub.xerj.org/contributors/WangShu-exe)
 
 ## 💡 项目背景 (Motivation)
 传统的排名估计（如 ECDF、t-digest）在海量数据面临三大死穴：
